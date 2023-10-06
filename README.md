@@ -16,13 +16,13 @@ I created Python scripts to converted the `.csv` files into `.sql` insert script
 
 ## Converted datasets tracker
 
-[ ] 01_seattle_weather
-[ ] 02_employee
-[ ] 03_social_network
-[ ] 04_orders
-[ ] 05_election
-[ ] 07_normalize_superstore
-[ ] 08_attendance
+- [ ] 01_seattle_weather
+- [ ] 02_employee
+- [ ] 03_social_network
+- [ ] 04_orders
+- [ ] 05_election
+- [ ] 07_normalize_superstore
+- [ ] 08_attendance
 
 ## Note
 

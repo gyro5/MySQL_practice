@@ -14,6 +14,16 @@ I created Python scripts to converted the `.csv` files into `.sql` insert script
 
 - Create queries for the questions in the `README.md` file of that directory.
 
+## Converted datasets tracker
+
+[ ] 01_seattle_weather
+[ ] 02_employee
+[ ] 03_social_network
+[ ] 04_orders
+[ ] 05_election
+[ ] 07_normalize_superstore
+[ ] 08_attendance
+
 ## Note
 
 To practice in PostgreSQL instead, please see the original repository (Link above). 

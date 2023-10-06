@@ -4,9 +4,9 @@ A set of exercises to practice with creating MySQL queries.
 
 Fork from <https://github.com/kiwidamien/SQL_practice> because the original repository is for PostgreSQL.
 
-## Changes
+## Changes from the original repository
 
-I created Python scripts to converted the `.csv` files into `.sql` insert scripts that can be copied pasted directly into MySQL Workbench.
+Convert the `.csv` files into `.sql` insert scripts that can be copied pasted directly into MySQL Workbench.
 
 ## How to use
 

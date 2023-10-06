@@ -16,7 +16,7 @@ Convert the `.csv` files into `.sql` insert scripts that can be copied pasted di
 
 ## Converted datasets tracker
 
-- [ ] 01_seattle_weather
+- [x] 01_seattle_weather
 - [ ] 02_employee
 - [ ] 03_social_network
 - [ ] 04_orders
